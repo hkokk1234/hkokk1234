@@ -51,17 +51,6 @@
 University of the Aegean, Samos, Greece
 Coursework: Distributed Systems & Middleware · Computer Networks & TCP/IP · Software Engineering & SDLC · Database Design · Information Security & Cryptography · Wireless Systems · Mobile Computing & Android Development · Decision Support Systems
 
-### 📜 Certifications
-
-- Business Foundations — Wharton, University of Pennsylvania / Coursera
-- Microsoft Azure for Data Engineering — Microsoft / Coursera
-- Database Design and Basic SQL in PostgreSQL — University of Michigan / EdX
-
-### 🏆 Achievements
-
-- **IEEE member** (Aegean Student Branch) — competed in **IEEEXtreme 18.0** as team "Algocoders": ranked 19th nationally, 884th globally out of thousands of teams
-- Active member of the University Programming Club — regular participation in coding challenges and hackathons
-
 ---
 
 ### 📫 Get in touch
