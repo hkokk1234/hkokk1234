@@ -55,7 +55,7 @@ Coursework: Distributed Systems & Middleware · Computer Networks & TCP/IP · So
 
 ### 📫 Get in touch
 
-- LinkedIn: *[add your link]*
-- Email: *[add your email]*
+- LinkedIn: *https://www.linkedin.com/in/zacharias-kokkinakis-0a52b0247/*
+- Email: *hkokk1234@gmail.com*
 
 <p align="center"><i>Open to internship and junior developer opportunities.</i></p>
